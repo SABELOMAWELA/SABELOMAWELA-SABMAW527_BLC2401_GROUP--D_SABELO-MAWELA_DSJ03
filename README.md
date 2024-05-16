@@ -50,7 +50,7 @@
 5) ## Document Load Event:
 
 - Description: Applies saved theme when the document is loaded.
-  # modules.js 
+  # module.js 
 1) ## updateShowMore(books, page, BOOKS_PER_PAGE):
 
 - Description: This function updates the text and remaining count displayed on the "Show More" button.
