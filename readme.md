@@ -1,6 +1,8 @@
 # Book Connect Summary
 Book Connect is a web application designed for browsing and exploring a collection of books. It offers various features such as filtering books by genre, author, and title, pagination for navigating through multiple pages, and customizable themes for user preference.
+
 ![alt text](image.png)
+
 ## Features
 - Book Filtering: Users can filter books based on genre, author, and title.
 - Pagination: Books are displayed with pagination, enabling users to navigate through different pages.
